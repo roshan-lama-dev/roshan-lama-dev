@@ -6,7 +6,7 @@ Software Engineer
 
 * 🌍  I'm based in Sydney
 * ✉️  You can contact me at [lamarosan1998@gmail.com](mailto:lamarosan1998@gmail.com)
-* 🧠  I'm learning Full Stack E-commerce
+* 🧠  I'm learning Full Stack Web Development and Cloud Computing
 
 ### Skills
 
